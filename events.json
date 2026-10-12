@@ -1,0 +1,26 @@
+[
+  {
+    "repository": "microsoft/TypeScript",
+    "description": "TypeScript is a strongly typed programming language that builds on JavaScript.",
+    "url": "https://github.com/microsoft/TypeScript",
+    "starredAt": "2026-10-10"
+  },
+  {
+    "repository": "vitejs/vite",
+    "description": "Next generation frontend tooling. It's fast!",
+    "url": "https://github.com/vitejs/vite",
+    "starredAt": "2026-10-08"
+  },
+  {
+    "repository": "sindresorhus/awesome",
+    "description": "A curated list of awesome lists.",
+    "url": "https://github.com/sindresorhus/awesome",
+    "starredAt": "2026-10-05"
+  },
+  {
+    "repository": "pallets/flask",
+    "description": "The Python micro framework for building web applications.",
+    "url": "https://github.com/pallets/flask",
+    "starredAt": "2026-10-01"
+  }
+]
